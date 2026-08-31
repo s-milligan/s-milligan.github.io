@@ -1,0 +1,57 @@
+---
+title: "Publications & Research Outputs"
+---
+
+## Peer-reviewed journal articles
+
+**Scott Milligan**, Robert Andersen, and Robert Brym (2014).  
+“Assessing Variation in Tolerance in 23 Muslim-Majority and Western Countries.”  
+*Canadian Review of Sociology/Revue canadienne de sociologie*, 51(3), 239–261.  
+[DOI](https://doi.org/10.1111/cars.12046)
+
+**Scott Milligan** (2012).  
+“Economic Inequality, Poverty, and Tolerance: Evidence from 22 Countries.”  
+*Comparative Sociology*, 11(4), 594–619.  
+[DOI](https://doi.org/10.1163/15691330-12341235)
+
+Robert Andersen and **Scott Milligan** (2011).  
+“Immigration, Ethnicity and Voluntary Association Membership in Canada: Individual and Contextual Effects.”  
+*Research in Social Stratification and Mobility*, 29(2), 139–154.  
+[DOI](https://doi.org/10.1016/j.rssm.2010.11.003)
+
+Edward Grabb, Robert Andersen, Monica Hwang, and **Scott Milligan** (2009).  
+“Confidence in Political Institutions in Canada and the United States: Assessing the Interactive Role of Region and Race.”  
+*American Review of Canadian Studies*, 39(4), 379–397.  
+[DOI](https://doi.org/10.1080/02722010903319111)
+
+
+## Book chapters
+
+Robert Brym, Robert Andersen, and **Scott Milligan** (2017).  
+“Are Islam and Democracy Compatible?” In Patrizia Albanese, Lorne Tepperman, and Emily Alexander (eds.), *Reading Sociology: Canadian Perspectives*, 3rd ed. Toronto: Oxford University Press Canada, 249–253.
+
+Robert Andersen and **Scott Milligan** (2009).  
+“Inequality and Intolerance: Canada in Cross-National Perspective.” In James Curtis, Edward Grabb, and Neil Guppy (eds.), *Social Inequality in Canada: Patterns, Problems, and Policies*, 5th ed. Toronto: Pearson Prentice Hall, 390–408.
+
+
+## Other research outputs
+
+Insa Bechert and **Scott Milligan** (2024).  
+“Harmonising Variables on Child Wellbeing.” *GESIS Papers*, 2024/09. Cologne: GESIS – Leibniz Institute for the Social Sciences.  
+[DOI](https://doi.org/10.21241/ssoar.97392)
+
+**Scott Milligan** (2014).  
+*Socially Cohesive Nations: Evidence from the Individual, Community, and National Levels.* PhD dissertation, University of Toronto.
+
+
+## Data, software & research infrastructure
+
+Insa Bechert and **Scott Milligan** (2024).  
+*COORDINATE Data Harmonisation Workshop 2* (Version 1.0.0). Simulated research data and R code. GESIS.  
+[DOI](https://doi.org/10.7802/2717)
+
+Insa Bechert, Haridhan Goswami, and **Scott Milligan** (2024).  
+*Delivering Training Workshops on Child Wellbeing Data Harmonisation.* COORDINATE Deliverable D4.6, Work Package 4. Horizon 2020, Grant Agreement 101008589.
+
+**[COORDINATE Child Wellbeing Variable Database and Harmonisation Toolbox](https://www.coordinate-network.eu/database)** (2022–2024).  
+Design and technical development of a publicly accessible variable and metadata database and documented R workflows for harmonising comparative survey data on child and youth wellbeing.

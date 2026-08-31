@@ -1,0 +1,47 @@
+---
+title: "Teaching"
+---
+
+My teaching combines **substantive sociology with empirical research practice**. I aim to help students develop a strong understanding of sociological theories and social structures while also learning how to formulate research questions, work with data, evaluate evidence, and draw well-founded conclusions.
+
+I see theoretical reasoning and data analysis as part of the same sociological process. Quantitative methods are therefore not taught as ends in themselves, but as tools for investigating substantive questions about inequality, social structure, migration, trust, and social change.
+
+## Teaching areas
+
+My teaching experience spans BA and MA programmes in sociology and related fields, including:
+
+- social stratification and social inequality
+- macro sociology
+- political sociology
+- migration, diversity, and social cohesion
+- comparative social research
+- statistics and quantitative methods
+- R and applied data analysis
+- reproducible research
+
+## Selected courses
+
+### Social stratification, inequality & macro sociology
+
+- Advanced Themes in Social Inequality
+- Applied Macro Sociology Research
+- Applied Social Stratification Research
+- Classical Stratification Research
+- Income Inequality in Cross-National Perspective
+- Introduction to Themes in Social Inequality
+- Macro Sociology Seminar for MA Students
+- Political Sociology
+- Social Cohesion in Multicultural Societies
+
+### Quantitative methods
+
+- Comparative Methods in Inequality Research
+- Quantitative Research Methods in the Social Sciences
+- Statistical Analysis for Sociologists
+
+### Methods workshops
+
+- COORDINATE Harmonisation Workshop 1: Harmonising Survey Data on Child Wellbeing
+- COORDINATE Harmonisation Workshop 2: Hands-on Data
+- R and Reproducible Research: Seminar for MA Students
+- R for Social Scientists and Health Researchers: Introductory Workshop

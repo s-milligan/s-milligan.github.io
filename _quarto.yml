@@ -1,0 +1,28 @@
+project:
+  type: website
+
+website:
+  title: "Scott Milligan"
+  navbar:
+    left:
+      - href: index.qmd
+        text: About
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: teaching.qmd
+        text: Teaching
+      - href: cv.qmd
+        text: CV
+    right:
+      - icon: github
+        href: https://github.com/s-milligan
+
+format:
+  html:
+    theme: cosmo
+    toc: false
+
+execute:
+  freeze: auto

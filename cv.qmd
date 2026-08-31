@@ -1,0 +1,84 @@
+---
+title: "CV"
+---
+
+## Current position
+
+**Hochschule Fulda, Department of Health Sciences**  
+*Research Coordinator / Research Associate*  
+2024–present
+
+Research design and coordination of quantitative and interdisciplinary projects, with a particular focus on public health and health inequalities. Development of research proposals, monitoring and evaluation concepts, and empirical research designs.
+
+
+## Previous academic positions
+
+**GESIS – Leibniz Institute for the Social Sciences, Cologne**  
+*Research Coordinator / Research Associate*  
+2021–2024
+
+Coordination of GESIS activities in the Horizon 2020 project **COORDINATE**, including the development of the Child Wellbeing Variable Database, Harmonisation Toolbox, and reproducible R-based workflows for comparative survey-data harmonisation.
+
+**University of Tübingen, Institute of Sociology**  
+*Akademischer Rat / Research Associate, Chair of Macrosociology*  
+2012–2020
+
+Research and teaching in social inequality, social stratification, migration-related diversity, trust, tolerance, social cohesion, macro sociology, statistics, and comparative methods.
+
+**University of Toronto, Department of Sociology**  
+*Research and Teaching Assistant; later Lecturer*  
+2007–2012
+
+Research in the project *Social Cohesion in Cross-National Perspective* and teaching in statistics, social inequality, and political sociology.
+
+
+## Education
+
+**PhD in Sociology**, University of Toronto, 2014  
+*Socially Cohesive Nations: Evidence from the Individual, Community, and National Levels*
+
+**MA in Sociology**, McMaster University, 2004
+
+**BA (Honours with Distinction) in Sociology**, University of Victoria, 2003
+
+
+## Research profile
+
+My research focuses on:
+
+- social inequality and social structure
+- migration-related diversity, trust, and social cohesion
+- health, wellbeing, disability, and social participation
+- international comparative quantitative research
+- survey and longitudinal data
+- multilevel and panel analysis
+- data harmonisation and reproducible research
+
+
+## Selected project experience
+
+**COORDINATE**, Horizon 2020, 2021–2024  
+Research coordination and development of comparative data infrastructure for European child and youth wellbeing research.
+
+**Research on social inequalities among people with disabilities**, Hochschule Fulda  
+Development of the quantitative research design for a current funding proposal.
+
+**GeKoPlus: Health Literacy and Healthcare Utilisation**, Hochschule Fulda  
+Research design, empirical strategy, monitoring, and evaluation.
+
+**European Horizon 2020 proposal on risks to democracy**, GESIS  
+Scientific coordination of an international consortium and contribution to the substantive and empirical project design.
+
+
+## Teaching
+
+Teaching experience at BA and MA level includes social stratification, social inequality, macro sociology, political sociology, comparative methods, statistics, R, and reproducible research.
+
+
+## Languages & technical skills
+
+**Languages:** English (native), German (C1)
+
+**Software:** R, Stata, Python, SPSS, SAS, Quarto, R Markdown, Git/GitHub
+
+**Methods:** international comparative analysis, multilevel modelling, longitudinal and survey-data analysis, data harmonisation, data visualisation, and reproducible research
