@@ -5,12 +5,13 @@ about:
   template: trestles
   image: images/profile.png
   links:
-    - icon: envelope
-      text: Email
-      href: mailto:scottmilligan@gmail.com
     - icon: github
       text: GitHub
       href: https://github.com/s-milligan
+    - text: ORCID
+      href: https://orcid.org/0000-0003-1633-549X
+    - text: Bluesky
+      href: https://bsky.app/profile/scott-milligan.bsky.social
 ---
 
 I’m an applied sociologist and quantitative social scientist interested in how social inequalities shape people’s life chances and the societies they live in. My work combines substantive sociological questions with empirical analysis, particularly around social inequality, migration, diversity, trust, and social cohesion.

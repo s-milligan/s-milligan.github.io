@@ -2,7 +2,7 @@
 title: "Research"
 ---
 
-My research focuses on **social inequality and social structure**, particularly on the ways in which inequalities shape individual life chances, social participation, and broader social relationships. I am especially interested in how these processes vary across institutional and national contexts.
+My research focuses on **social inequality and social structure**, particularly on the ways in which inequalities shape individual life chances, social participation, and broader social relationships. I am especially interested in how these processes vary across institutional and national contexts. I am also committed to open science and reproducible research, with a particular interest in transparent, well-documented workflows that make data, analytical decisions, and research outputs easier to understand, verify, and reuse.
 
 ## Social inequality, migration, and social cohesion
 
@@ -14,7 +14,7 @@ A central question in this work is why similar levels of inequality or diversity
 
 ## Inequality, institutional access, and participation
 
-My more recent work extends these interests to **health, wellbeing, disability, and institutional access**.
+My more recent work extends these interests to health, wellbeing, disability, and institutional access.
 
 I am interested in the conditions under which institutions reproduce or mitigate existing inequalities. This includes questions about access to education, healthcare, support services, and labour-market opportunities, and about how individual social position interacts with institutional structures.
 
@@ -23,7 +23,3 @@ Current project development includes research on social inequalities among peopl
 ## International comparative quantitative research
 
 My research is primarily quantitative and internationally comparative. I work with survey and longitudinal data and use approaches including multilevel and panel analysis to connect individual experiences and outcomes with institutional and societal contexts.
-
-I see quantitative methods as tools for answering substantive sociological questions rather than as ends in themselves.
-
-I am committed to open science and reproducible research, with a particular interest in transparent, well-documented workflows that make data, analytical decisions, and research outputs easier to understand, verify, and reuse.
